@@ -1,0 +1,2 @@
+# CSC256_FALL2026
+All project for CSC256-0001 Fall 2026
